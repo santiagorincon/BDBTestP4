@@ -47,9 +47,9 @@ public class ProductoServicio {
     }
     
     @DELETE
-    @Path("/{id}")
+    @Path("/{cod}")
     @Produces(MediaType.APPLICATION_JSON)
-    public Response borrarProducto(@PathParam("id") int id){
+    public Response borrarProducto(@PathParam("cod") int id){
         Producto producto = new Producto();
         producto.setId(id);
         if (lista.contains(producto)){
