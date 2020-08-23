@@ -20,7 +20,7 @@ import javax.ws.rs.core.Response;
 
 /**
  *
- * @author FABRICA.SOFTWARE6
+ * @author Santiago Rincón
  */
 @Path("productos")
 public class ProductoServicio {

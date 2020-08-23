@@ -7,7 +7,7 @@ package com.ejemplosapi.modelo;
 
 /**
  *
- * @author FABRICA.SOFTWARE6
+ * @author Santiago Rincón
  */
 public class Producto {
     public int id;

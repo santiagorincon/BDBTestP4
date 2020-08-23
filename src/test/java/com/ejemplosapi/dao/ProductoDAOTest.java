@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author FABRICA.SOFTWARE6
+ * @author Santiago Rincón
  */
 public class ProductoDAOTest {
     

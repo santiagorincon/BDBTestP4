@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author FABRICA.SOFTWARE6
+ * @author Santiago Rincón
  */
 public class ProductoDAO {
     public static List<Producto> getProductos(){

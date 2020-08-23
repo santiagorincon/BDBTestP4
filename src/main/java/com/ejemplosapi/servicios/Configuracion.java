@@ -10,7 +10,7 @@ import javax.ws.rs.core.Application;
 
 /**
  *
- * @author FABRICA.SOFTWARE6
+ * @author Santiago Rincón
  */
 @ApplicationPath("api")
 public class Configuracion extends Application {
